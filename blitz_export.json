@@ -1,5 +1,5 @@
 {
 "htmlTemplate": "src/index.html",
 "exportProjectTo": "src",
-"ignore": ["src/polyfills.ts"]
+"ignore": ["app/polyfills.ts"]
 }
