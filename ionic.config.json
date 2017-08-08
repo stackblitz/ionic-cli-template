@@ -1,5 +1,5 @@
 {
-  "name": "myNewProject",
+  "name": "{BLITZ_PROJECT_SLUG}",
   "app_id": "",
   "type": "ionic-angular"
 }

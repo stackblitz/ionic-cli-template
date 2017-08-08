@@ -1,8 +1,6 @@
 {
-  "name": "myNewProject",
+  "name": "{BLITZ_PROJECT_SLUG}",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
@@ -36,6 +34,5 @@
     "@ionic/cli-plugin-ionic-angular": "1.4.1",
     "ionic": "3.7.0",
     "typescript": "2.3.4"
-  },
-  "description": "An Ionic project"
+  }
 }
